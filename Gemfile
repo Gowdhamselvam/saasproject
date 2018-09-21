@@ -8,7 +8,8 @@ gem 'rails', '~> 5.2.1'
 # Use sqlite3 as the database for Active Record
 gem 'devise'
 gem 'milia', github: 'jekuno/milia', ref: '05b72dd'
-
+gem 'twitter-bootstrap-rails'
+gem 'devise-bootstrap-views'
 
 # Use Puma as the app server
 gem 'puma', '~> 3.11'
